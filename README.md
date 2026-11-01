@@ -6,7 +6,6 @@ Netflix Content Analytics is a data analysis project that explores Netflix's mov
 ## Dashboard Preview
 ![Netflix Dashboard](netflix-content-analytics/images/Dashboard%201.png)
 
-Tableau Public link: add your link here
 
 ## Tools & Technologies
 - Python: Data cleaning and exploratory data analysis
